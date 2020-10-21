@@ -1,0 +1,1 @@
+const favoriteColor = $("#color").val();
